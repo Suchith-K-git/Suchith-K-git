@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Suchith K</h1> 
 <h3 align="center">A passionate DevOps Enthusiast</h3> 
 
@@ -13,7 +14,7 @@
 </p>
 <br/>
 
-📫 How to reach me: suchithk30@gmail.com
+📫 How to reach me: suchith004@gmail.com
 
 ⚡ Fun fact: I am funny 😎
 
