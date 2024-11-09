@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Suchith-K-git/Suchith-K-git/blob/main/Banner.jpeg)
 <h1 align="center">Hi 👋, I'm Suchith K</h1> 
 <h3 align="center">A passionate DevOps Enthusiast</h3> 
 
