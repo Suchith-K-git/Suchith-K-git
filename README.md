@@ -1,8 +1,7 @@
 ![logo](https://github.com/Suchith-K-git/Suchith-K-git/blob/main/Banner.jpeg)
+
 <h1 align="center">Hi 👋, I'm Suchith K</h1> 
 <h3 align="center">A passionate DevOps Enthusiast</h3> 
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=suchith-k-git&label=Profile%20views&color=0e75b6&style=flat" alt="suchith-k-git" /> 
@@ -13,6 +12,8 @@
   A passionate DevOps enthusiast with strong knowledge in AWS, Git, GitHub, Linux, Docker, Ansible, Terraform, Kubernetes, HTML, CSS, JavaScript, Java, and C#. Eager to leverage this diverse skill set to contribute to efficient cloud infrastructure and software development processes. I am dedicated to continuous learning and applying modern DevOps tools and practices to create seamless, automated workflows and optimized systems.
 </p>
 <br/>
+
+<img align="right" alt="coding" width="400" style="margin-top: 20px;" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 📫 How to reach me: suchith004@gmail.com
 
