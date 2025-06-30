@@ -108,7 +108,7 @@ With a **passion for automation and cloud infrastructure optimization**, I focus
 If you're interested in discussing DevOps, automation, or cloud computing, feel free to reach out!
 
 📩 **Email**: suchith004@gmail.com  
-💼 **LinkedIn**: [Connect Here](https://www.linkedin.com/in/suchith-k-0262a5252/)  
+💼 **LinkedIn**: [Connect Here]()  
 🌐 **GitHub**: [GitHub Profile](https://github.com/Suchith-K-git)
 
 ---
