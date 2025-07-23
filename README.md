@@ -7,6 +7,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFBF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Suchith+K+%F0%9F%91%8B;DevOps+Engineer+%7C+Cloud+Enthusiast+%E2%9C%A8;Automating+Infra+One+Pipeline+at+a+Time+%F0%9F%9A%80" />
 </h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Suchith-K-git&label=Profile+Views&color=0e7c3f&style=for-the-badge" alt="Suchith-K-git" />
+</p>
+
 ---
 
 ## 🌟 About Me
