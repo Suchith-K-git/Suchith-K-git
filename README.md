@@ -41,6 +41,9 @@
   <a href="https://github.com/Suchith-K-git">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/_suchith_k/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -109,3 +112,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=🚀%20Let’s%20Build%20and%20Scale%20Together!&fontSize=24&fontAlignY=40" />
 </p>
+
