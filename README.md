@@ -1,115 +1,103 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://github.com/Suchith-K-git/Suchith-K-git/blob/main/Banner.jpeg" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/Suchith-K-git/Suchith-K-git/main/Banner.jpeg" alt="Banner" width="100%"/>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFBF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Suchith+K+%F0%9F%91%8B;DevOps+Engineer+%7C+Cloud+Enthusiast+%E2%9C%A8;Automating+Infra+One+Pipeline+at+a+Time+%F0%9F%9A%80" />
-</h1>
+<div align="center">
+  <h1>Hi there, I'm Suchith K <img src="https://media.giphy.com/media/hvRJCLzz8CztK/giphy.gif" width="28"></h1>
+  <p>🚀 <b>Associate DevOps / Cloud Engineer</b></p>
+  <p><i>Transforming manual workflows into automated, scalable cloud ecosystems.</i></p>
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Suchith-K-git&label=Profile+Views&color=0e7c3f&style=for-the-badge" alt="Suchith-K-git" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
 
 ---
 
-## 🌟 About Me
+## 👨‍💻 About Me
 
-💻 **Associate Software Engineer** | ☁️ **Cloud & DevOps Enthusiast**  
-⚙️ Passionate about building efficient pipelines, automating infrastructure, and deploying scalable cloud apps.
-
-🧠 I’m always learning and improving my skills in:
-- 🔧 **Infrastructure as Code (IaC)**
-- 🚀 **CI/CD Automation**
-- 🐳 **Containerization & Orchestration**
-- ☁️ **Cloud Computing (AWS)**
-
-📫 Reach me at: **suchith004@gmail.com**  
-🎯 Fun Fact: I turn boring scripts into powerful automation tools 😎
+- 🔭 I’m currently working on **Automating Hybrid Cloud Deployments**  
+- 🌱 I’m learning **Advanced GitOps with ArgoCD**  
+- ☁️ Passionate about **Infrastructure as Code (IaC)** and **Site Reliability**  
+- 💬 Ask me about **Jenkins, Docker, or Linux workflows**  
+- ⚡ Fun fact: If you have to do it twice, you should automate it  
 
 ---
 
-## 🔗 Let's Connect
+## 🛠️ Tech Stack
+
+### ☁️ Infrastructure & Automation
+| Category | Tools |
+| :--- | :--- |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform) |
+| **Containers** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes) |
+| **CI/CD** | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions) |
+| **Config Mgmt** | ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+
+### 💻 Languages & Monitoring
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,bash,prometheus,grafana&theme=dark"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics (Shields.io)
 
 <p align="center">
+  <img src="https://img.shields.io/github/forks/Suchith-K-git?style=for-the-badge&logo=github" alt="Forks" />&nbsp;
+  <img src="https://img.shields.io/github/stars/Suchith-K-git?style=for-the-badge&logo=github" alt="Stars" />&nbsp;
+  <img src="https://img.shields.io/github/issues/Suchith-K-git?style=for-the-badge&logo=github" alt="Issues" />&nbsp;
+  <img src="https://img.shields.io/github/contributors/Suchith-K-git?style=for-the-badge&logo=github" alt="Contributors" />&nbsp;
+  <img src="https://img.shields.io/github/commit-activity/m/Suchith-K-git?style=for-the-badge&logo=github" alt="Commits" />
+</p>
+
+---
+
+## 💻 Top Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+---
+
+## 🏆 Highlights & Projects
+
+- ✅ Automated end-to-end **CI/CD pipelines** using Jenkins & GitHub Actions  
+- ✅ Managed **Kubernetes deployments** for scalable apps  
+- ✅ Built cloud infrastructure with **Terraform on AWS**  
+- ✅ Developed **Ansible playbooks** for configuration management  
+- ✅ Hands-on projects in **Java, Python, and scripting**
+
+> You can also add your **key projects here with links** to repos for maximum impact.
+
+---
+
+## 🤝 Connect With Me
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/suchith-k-0262a5252/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:suchith004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/suchith-k-0262a5252/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://github.com/Suchith-K-git">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/_suchith_k/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+</div>
 
----
-
-## ⚙️ Tech Stack & Tools
-
-### ☁️ Cloud & DevOps
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="50" alt="Kubernetes" />
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="50" alt="Terraform" />
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="50" alt="Ansible" />
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50" alt="Jenkins" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" width="50" alt="SonarQube" />
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="50" alt="Grafana" />
-</p>
-
-### 💻 Languages & Scripting
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" />
-</p>
-
-### 🐧 OS & VCS
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
-</p>
-
----
-
-## 📊 GitHub Stats
+<br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suchith-K-git&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchith-K-git&layout=compact&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=Suchith-K-git&label=Profile%20Views&color=0e7c3f&style=flat-square" />
 </p>
 
----
-
-## 🔥 My DevOps Philosophy
-
-🛠️ **Automate Everything**: Replace repetition with automation  
-🚀 **Build to Scale**: Code and infra that grows with demand  
-👥 **Collaborate Continuously**: Teamwork fuels DevOps  
-📈 **Measure & Optimize**: Metrics make progress visible
-
----
-
-## ✨ Highlights
-
-- ✅ Automated deployment pipelines using Jenkins & GitHub Actions  
-- ✅ Managed container orchestration using Kubernetes  
-- ✅ Built cloud infrastructure using Terraform + AWS  
-- ✅ Developed automation playbooks with Ansible  
-- ✅ Hands-on experience with Java, Python, and scripting
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=🚀%20Let’s%20Build%20and%20Scale%20Together!&fontSize=24&fontAlignY=40" />
-</p>
-
+<p align="center"><b>“Automate the boring. Engineer the future.”</b></p>
