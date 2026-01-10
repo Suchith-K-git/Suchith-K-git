@@ -1,60 +1,80 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Suchith-K-git&label=Profile%20Views&color=0e7c3f&style=flat-square" />
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-0e7c3f?style=flat-square" />
+  <img src="https://img.shields.io/badge/Maintained-Yes-0e7c3f?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-0e7c3f?style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Suchith-K-git/Suchith-K-git/main/Banner.jpeg" alt="Suchith K | DevOps Engineer" width="100%" style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/Suchith-K-git/Suchith-K-git/main/Banner.jpeg"
+       alt="Suchith K | DevOps Engineer"
+       width="100%"
+       style="border-radius:14px; box-shadow:0 12px 30px rgba(0,0,0,0.4);" />
 </p>
 
 <div align="center">
-  <h1>Hi, I'm Suchith K <img src="https://media.giphy.com/media/hvRJCLzz8CztK/giphy.gif" width="35"></h1>
-  <p><b>DevOps Engineer | Cloud Enthusiast | Automation Architect</b></p>
-  
-  <i>"Transforming manual toil into automated elegance."</i>
-  <br>
-  <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge" />
+
+<h1>Hey 👋 I'm <span style="color:#0e7c3f">Suchith K</span></h1>
+
+<h3>DevOps Engineer • Cloud Enthusiast • Automation Architect</h3>
+
+<p><i>"Turning infrastructure chaos into reliable, automated systems."</i></p>
+
+<br/>
+
+<img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/GitOps-0f172a?style=for-the-badge" />
+
 </div>
 
 ---
 
-### 🏆 Achievements & Trophies
+## ✨ About Me
+
+- 🔧 DevOps Engineer building **scalable & secure cloud platforms**
+- ☁️ Strong hands-on experience with **AWS, Kubernetes & Terraform**
+- 🛡️ Advocate of **DevSecOps & automation-first culture**
+- 🎓 Passionate about **teaching, mentoring & simplifying tech**
+
+---
+
+## 🏆 Achievements & Trophies
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Suchith-K-git&theme=tokyonight&column=7&margin-w=15&no-bg=true" alt="Suchith's Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Suchith-K-git&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-bg=true" />
 </p>
 
 ---
 
-### 👨‍💻 My DevOps Journey
+## 👨‍💻 DevOps Journey Snapshot
 
 <table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🚀 Current Focus</h4>
-      <ul>
-        <li>🏗️ Building <b>Scalable Microservices</b></li>
-        <li>☸️ Mastering <b>EKS & GitOps</b></li>
-        <li>🛡️ Implementing <b>DevSecOps</b> pipelines</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🛠️ Daily Drivers</h4>
-      <ul>
-        <li>☁️ <b>Infrastructure:</b> AWS & Terraform</li>
-        <li>📦 <b>Containers:</b> Docker & K8s</li>
-        <li>🔄 <b>CI/CD:</b> Jenkins & ArgoCD</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Current Focus
+- 🏗️ Cloud-Native Microservices
+- ☸️ EKS, Helm & GitOps
+- 🛡️ DevSecOps Pipelines
+- 📊 Observability (Prometheus & Grafana)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ Daily Drivers
+- ☁️ **Infra:** AWS, Terraform, Ansible
+- 📦 **Containers:** Docker, Kubernetes
+- 🔄 **CI/CD:** Jenkins, GitHub Actions, ArgoCD
+- 🐧 **OS:** Linux & Bash
+
+</td>
+</tr>
 </table>
 
 ---
 
-### 🛠 Tech Stack & Toolbox
+## 🧰 Tech Stack & Toolbox
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,ansible,githubactions,linux,argocd,prometheus,grafana,python,bash,java,js,git&theme=dark" />
@@ -62,7 +82,7 @@
 
 ---
 
-### 📊 GitHub Insights
+## 📊 GitHub Insights
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Suchith-K-git&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -75,14 +95,16 @@
 
 ---
 
-### 🐍 Contribution Activity
+## 🐍 Contribution Activity
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Suchith-K-git/Suchith-K-git/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Suchith-K-git/Suchith-K-git/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-### 🤝 Let's Collaborate
+## 🤝 Let’s Connect
+
 <p align="center">
   <a href="https://www.linkedin.com/in/suchith-k-0262a5252/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -96,5 +118,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e7c3f&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e7c3f&height=110&section=footer" width="100%" />
 </p>
