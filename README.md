@@ -141,9 +141,8 @@ open_to: Collaborations, Cloud Projects, Open Source
 ## 🏆 Trophies & Milestones
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Suchith-K-git&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Suchith-K-git&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 </p>
-
 ---
 
 ## 🐍 Code Contribution Snake
