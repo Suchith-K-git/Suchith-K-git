@@ -125,7 +125,7 @@ open_to: Collaborations, Cloud Projects, Open Source
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Suchith-K-git&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&border_radius=12" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Suchith-K-git&theme=merko&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&border_radius=12" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Suchith-K-git&theme=merko&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&border_radius=12" />
 </p>
 
 <p align="center">
