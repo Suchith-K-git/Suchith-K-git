@@ -102,6 +102,13 @@ open_to: Collaborations, Cloud Projects, Open Source
 <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </p>
 
+### 🛡️ Security Scanning & Testing
+<p align="center">
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+</p>
+
 ### 📊 Monitoring & Observability
 <p align="center">
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
@@ -141,7 +148,7 @@ open_to: Collaborations, Cloud Projects, Open Source
 ## 🏆 Trophies & Milestones
 
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Suchith-K-git&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Suchith-K-git&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 </p>
 
 ---
