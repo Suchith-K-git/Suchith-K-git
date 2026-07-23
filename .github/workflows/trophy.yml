@@ -1,1 +1,34 @@
+name: Generate Profile Trophy
 
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at midnight UTC
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+
+jobs:
+  build-trophy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate trophy SVG
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: Suchith-K-git
+          output_path: trophy.svg
+          theme: matrix
+          no-frame: true
+          no-bg: true
+          column: 7
+          margin-w: 8
+          margin-h: 8
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add trophy.svg
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update trophy.svg"
+          git push
