@@ -137,20 +137,8 @@ open_to: Collaborations, Cloud Projects, Open Source
 ## 🏆 Trophies & Milestones
 
 <p align="center">
-  <!--
-    Self-hosted via the trophy.yml GitHub Action (regenerates trophy.svg daily,
-    so it never breaks from the shared instance being rate-limited/paused).
-    Until that Action runs at least once, this line will 404 — see the
-    fallback line right below it as a temporary stand-in.
-  -->
-  <img src="https://raw.githubusercontent.com/Suchith-K-git/Suchith-K-git/main/trophy.svg" />
-</p>
-
-<!-- TEMPORARY FALLBACK — remove this line once the Action above has run once and trophy.svg exists
-<p align="center">
   <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Suchith-K-git&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 </p>
--->
 
 ## 🐍 Code Contribution Snake
 
