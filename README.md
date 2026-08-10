@@ -74,6 +74,10 @@ open_to: Collaborations, Cloud Projects, Open Source
 
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,jenkins,githubactions,gitlab,prometheus,grafana,elasticsearch,bash,python,go,yaml,linux&theme=dark" />
+
+<br/><br/>
+
 **☁️ Cloud & Infrastructure**
 <br/>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -137,8 +141,10 @@ open_to: Collaborations, Cloud Projects, Open Source
 ## 🏆 Trophies & Milestones
 
 <p align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Suchith-K-git&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Suchith-K-git&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 </p>
+
+> 💡 If trophies still don't render on the first load, GitHub sometimes caches a stale image — right-click the badge → "Open image in new tab" to force a refresh, or add `&row=2` to reflow them.
 
 ## 🐍 Code Contribution Snake
 
@@ -149,6 +155,57 @@ open_to: Collaborations, Cloud Projects, Open Source
     <img alt="github-snake" src="https://raw.githubusercontent.com/Suchith-K-git/Suchith-K-git/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
+## 🧊 3D Contribution Calendar
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Suchith-K-git/Suchith-K-git/profile-3d-contrib/profile-night-rainbow.svg" width="90%"/>
+</p>
+
+<sub align="center">⚠️ This cube renders automatically once the <code>profile-3d-contrib</code> GitHub Action is added to your repo — see setup note at the bottom of this file.</sub>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 📌 Featured Work
+
+<table align="center" border="0" cellpadding="12">
+<tr>
+<td width="50%">
+
+### 🔐 DevSecOps Pipeline
+Zero-trust CI/CD combining SonarQube, Trivy, and OWASP scanning across a Jenkins → GitHub → Docker delivery chain.
+
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white"/> <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white"/>
+
+</td>
+<td width="50%">
+
+### ☁️ AWS Route 53 Explainer
+An interactive, self-authored walkthrough of DNS routing policies and failover patterns on AWS.
+
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Route53-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌊 Wanderlust — DevSecOps Bootcamp
+End-to-end deployment project on AWS EC2, wiring Jenkins, Docker, SonarQube, Trivy and OWASP into one pipeline.
+
+<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+
+</td>
+<td width="50%">
+
+### ⚙️ Kubernetes on EKS & Bare-Metal
+Ingress routing, TLS, HPA, and MetalLB-based LoadBalancer services across managed and self-hosted clusters.
+
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+
+</td>
+</tr>
+</table>
 
 ## 💡 Dev Philosophy
 
@@ -184,3 +241,37 @@ open_to: Collaborations, Cloud Projects, Open Source
 <p align="center">
   <sub>⚡ Built with passion, deployed with precision · Suchith K © 2025</sub>
 </p>
+
+<!--
+=====================================================================
+SETUP NOTES (delete this comment block once configured)
+=====================================================================
+1. TROPHIES — now use the official service (github-profile-trophy.vercel.app)
+   instead of an unofficial fork, which was the reason trophies weren't
+   rendering. This one is actively maintained and far more reliable.
+
+2. 3D CONTRIBUTION CUBE — requires a one-time GitHub Action in this repo:
+   Create .github/workflows/profile-3d-contrib.yml with:
+
+   name: profile-3d-contrib
+   on:
+     schedule:
+       - cron: "0 */6 * * *"
+     workflow_dispatch:
+   jobs:
+     build:
+       runs-on: ubuntu-latest
+       steps:
+         - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+           env:
+             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+           with:
+             USERNAME: Suchith-K-git
+
+   This generates the profile-3d-contrib branch with SVG files. If you'd
+   rather skip this, just delete the "3D Contribution Calendar" section.
+
+3. SNAKE GAME — already configured via the "output" branch workflow you
+   set up previously; no change needed here.
+=====================================================================
+-->
