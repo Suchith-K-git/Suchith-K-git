@@ -1,30 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:12306B,100:00C6FF&section=header&animation=twinkling" width="100%" alt="Header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,45:0b3d2e,100:00ff88&section=header&animation=twinkling" width="100%" alt="Header banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=46&duration=2500&pause=1500&color=00C6FF&center=true&vCenter=true&repeat=false&width=800&height=90&lines=SUCHITH+K" alt="Suchith K"/>
+<img src="https://readme-typing-svg.demolab.com?font=Monoton&size=62&duration=3000&pause=100000&color=00ff88&center=true&vCenter=true&repeat=false&width=900&height=110&lines=SUCHITH+K" alt="Suchith K"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=24&duration=2600&pause=900&color=E2F3FF&center=true&vCenter=true&width=800&height=50&lines=DevOps+Engineer+%7C+Cloud+%7C+DevSecOps;Automating+Cloud+Infrastructure;Building+CI%2FCD+Pipelines;Docker+%7C+Kubernetes+%7C+AWS;Integrating+Security+into+DevOps" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=24&duration=2600&pause=900&color=d1fae5&center=true&vCenter=true&width=800&height=50&lines=DevOps+Engineer+%7C+Cloud+%7C+DevSecOps;Automating+Cloud+Infrastructure;Building+CI%2FCD+Pipelines;Docker+%7C+Kubernetes+%7C+AWS;Integrating+Security+into+DevOps" alt="Animated introduction"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/EXPERIENCE-~2%20YEARS-0284C7?style=for-the-badge&labelColor=020617" alt="Experience"/>
-<img src="https://img.shields.io/badge/BASED%20IN-BENGALURU-0284C7?style=for-the-badge&labelColor=020617" alt="Location"/>
-<img src="https://img.shields.io/badge/FOCUS-CLOUD%20%C2%B7%20CI%2FCD%20%C2%B7%20DEVSECOPS-0284C7?style=for-the-badge&labelColor=020617" alt="Focus"/>
+<img src="https://img.shields.io/badge/EXPERIENCE-~2%20YEARS-00c46a?style=for-the-badge&labelColor=0d1117" alt="Experience"/>
+<img src="https://img.shields.io/badge/BASED%20IN-BENGALURU-00c46a?style=for-the-badge&labelColor=0d1117" alt="Location"/>
+<img src="https://img.shields.io/badge/FOCUS-CLOUD%20%C2%B7%20CI%2FCD%20%C2%B7%20DEVSECOPS-00c46a?style=for-the-badge&labelColor=0d1117" alt="Focus"/>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/suchith-k-0262a5252/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:suchith004@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/Suchith-K-git"><img src="https://img.shields.io/github/followers/Suchith-K-git?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=0284C7&labelColor=020617" alt="GitHub followers"/></a>
-<img src="https://komarev.com/ghpvc/?username=Suchith-K-git&style=flat-square&color=0284C7&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://github.com/Suchith-K-git"><img src="https://img.shields.io/github/followers/Suchith-K-git?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=00c46a&labelColor=0d1117" alt="GitHub followers"/></a>
+<img src="https://komarev.com/ghpvc/?username=Suchith-K-git&style=flat-square&color=00c46a&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:00ff88,100:0d1117" width="100%" alt=""/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=ABOUT+ME" alt="About me"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=00ff88&center=true&vCenter=true&repeat=false&width=700&height=55&lines=ABOUT+ME" alt="About me"/>
 </div>
 
 <table>
@@ -71,37 +71,42 @@ open_to_opportunities
 > [!TIP]
 > **Open to opportunities** in DevOps, Cloud, and DevSecOps roles, and happy to collaborate on open-source and cloud projects. **Currently exploring:** GitOps, observability, and cloud-native tooling.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:00ff88,100:0d1117" width="100%" alt=""/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=HOW+I+SHIP" alt="How I ship"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=00ff88&center=true&vCenter=true&repeat=false&width=700&height=55&lines=HOW+I+SHIP" alt="How I ship"/>
 </div>
 
 <div align="center">
 
-```mermaid
-flowchart LR
-    A([💻 Code]) --> B[GitHub]
-    B --> C[Jenkins]
-    C --> D{{SonarQube<br/>Quality Gate}}
-    D --> E{{OWASP + Trivy<br/>Security Scan}}
-    E --> F[Docker<br/>Build & Push]
-    F --> G([☁️ AWS / Kubernetes])
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=700&color=00ff88&center=true&vCenter=true&width=700&height=45&lines=%24+git+push+origin+main;Jenkins+wakes+up+and+starts+the+build...;SonarQube+checks+the+code+quality...;Trivy+hunts+down+vulnerabilities...;Docker+packs+it+into+a+container...;Rocket+launched+to+AWS+%26+Kubernetes!" alt="Pipeline animation"/>
 
-    classDef src fill:#0b1220,stroke:#00C6FF,color:#e6f6ff,stroke-width:2px;
-    classDef gate fill:#12306B,stroke:#38BDF8,color:#ffffff,stroke-width:2px;
-    classDef run fill:#020617,stroke:#38BDF8,color:#e6f6ff,stroke-width:2px;
-    class A,B,C src;
-    class D,E gate;
-    class F,G run;
-```
+<table>
+<tr>
+<td align="center" width="13%"><h1>👨‍💻</h1><b>Code</b><br/><sub>write &amp; commit</sub></td>
+<td align="center" width="2%"><h2>➜</h2></td>
+<td align="center" width="13%"><h1>😺</h1><b>GitHub</b><br/><sub>version control</sub></td>
+<td align="center" width="2%"><h2>➜</h2></td>
+<td align="center" width="13%"><h1>🤵</h1><b>Jenkins</b><br/><sub>CI/CD butler</sub></td>
+<td align="center" width="2%"><h2>➜</h2></td>
+<td align="center" width="13%"><h1>🤖</h1><b>SonarQube</b><br/><sub>quality gate</sub></td>
+<td align="center" width="2%"><h2>➜</h2></td>
+<td align="center" width="13%"><h1>🛡️🐛</h1><b>Trivy + OWASP</b><br/><sub>security scan</sub></td>
+<td align="center" width="2%"><h2>➜</h2></td>
+<td align="center" width="13%"><h1>🐳</h1><b>Docker</b><br/><sub>build &amp; push</sub></td>
+<td align="center" width="2%"><h2>➜</h2></td>
+<td align="center" width="13%"><h1>🚀☁️</h1><b>AWS / K8s</b><br/><sub>deploy &amp; run</sub></td>
+</tr>
+</table>
+
+<sub>Every push is built, tested, scanned and shipped automatically.</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:00ff88,100:0d1117" width="100%" alt=""/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=TECH+ARSENAL" alt="Technology arsenal"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=00ff88&center=true&vCenter=true&repeat=false&width=700&height=55&lines=TECH+ARSENAL" alt="Technology arsenal"/>
 </div>
 
 <div align="center">
@@ -120,10 +125,10 @@ flowchart LR
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:00ff88,100:0d1117" width="100%" alt=""/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=FEATURED+PROJECTS" alt="Featured projects"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=00ff88&center=true&vCenter=true&repeat=false&width=700&height=55&lines=FEATURED+PROJECTS" alt="Featured projects"/>
 </div>
 
 <table>
@@ -201,61 +206,61 @@ Static website deployment using AWS content delivery and DNS services.
 
 <div align="center">
 
-<a href="https://github.com/Suchith-K-git?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Repositories_→-0284C7?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="Explore repositories"/></a>
+<a href="https://github.com/Suchith-K-git?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Repositories_→-00c46a?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Explore repositories"/></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:00ff88,100:0d1117" width="100%" alt=""/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=GITHUB+TROPHIES" alt="GitHub trophies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=00ff88&center=true&vCenter=true&repeat=false&width=700&height=55&lines=GITHUB+TROPHIES" alt="GitHub trophies"/>
 </div>
 
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=Suchith-K-git&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" width="95%" alt="GitHub trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Suchith-K-git&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" width="95%" alt="GitHub trophies"/>
 </a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:00ff88,100:0d1117" width="100%" alt=""/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=GITHUB+ANALYTICS" alt="GitHub analytics"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=00ff88&center=true&vCenter=true&repeat=false&width=700&height=55&lines=GITHUB+ANALYTICS" alt="GitHub analytics"/>
 </div>
 
 <div align="center">
 
 <a href="https://github.com/Suchith-K-git">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Suchith-K-git&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Suchith-K-git&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&border_radius=12&count_private=true" alt="GitHub stats"/>
 </a>
 <a href="https://github.com/Suchith-K-git">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchith-K-git&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchith-K-git&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&border_radius=12&langs_count=8" alt="Top languages"/>
 </a>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=Suchith-K-git&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=Suchith-K-git&theme=merko&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&border_radius=12" alt="GitHub contribution streak"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:00ff88,100:0d1117" width="100%" alt=""/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=CONTRIBUTION+GRAPH" alt="Contribution graph"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=00ff88&center=true&vCenter=true&repeat=false&width=700&height=55&lines=CONTRIBUTION+GRAPH" alt="Contribution graph"/>
 </div>
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Suchith-K-git&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Activity" alt="Contribution graph"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Suchith-K-git&theme=merko&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&hide_border=true&area=true&area_color=00ff88&custom_title=My%20Contribution%20Activity" alt="Contribution graph"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:00ff88,100:0d1117" width="100%" alt=""/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=CONTRIBUTION+SNAKE" alt="Contribution snake"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=00ff88&center=true&vCenter=true&repeat=false&width=700&height=55&lines=CONTRIBUTION+SNAKE" alt="Contribution snake"/>
 </div>
 
 <div align="center">
@@ -268,10 +273,10 @@ Static website deployment using AWS content delivery and DNS services.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:00ff88,100:0d1117" width="100%" alt=""/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=CURRENTLY+LEARNING" alt="Currently learning"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=00ff88&center=true&vCenter=true&repeat=false&width=700&height=55&lines=CURRENTLY+LEARNING" alt="Currently learning"/>
 </div>
 
 <div align="center">
@@ -282,10 +287,10 @@ Static website deployment using AWS content delivery and DNS services.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:00ff88,100:0d1117" width="100%" alt=""/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=LET'S+CONNECT" alt="Let's connect"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=00ff88&center=true&vCenter=true&repeat=false&width=700&height=55&lines=LET'S+CONNECT" alt="Let's connect"/>
 </div>
 
 <div align="center">
@@ -300,8 +305,8 @@ Static website deployment using AWS content delivery and DNS services.
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&duration=3000&pause=1500&color=38BDF8&center=true&vCenter=true&repeat=false&width=600&height=40&lines=Automate.+Secure.+Deploy.+Improve." alt="Automate. Secure. Deploy. Improve."/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&duration=3000&pause=1500&color=00ff88&center=true&vCenter=true&repeat=false&width=600&height=40&lines=Automate.+Secure.+Deploy.+Improve." alt="Automate. Secure. Deploy. Improve."/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00C6FF,50:12306B,100:020617" width="100%" alt="Footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00ff88,50:0b3d2e,100:0d1117" width="100%" alt="Footer banner"/>
 
 </div>
