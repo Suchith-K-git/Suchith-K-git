@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,40:12306B,100:00C6FF&text=SUCHITH%20K&fontSize=68&fontColor=FFFFFF&fontAlignY=36&desc=DEVOPS%20ENGINEER%20%7C%20CLOUD%20%7C%20DEVSECOPS&descAlignY=60&descSize=18&animation=twinkling" width="100%" alt="Suchith K - DevOps Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:12306B,100:00C6FF&section=header&animation=twinkling" width="100%" alt="Header banner"/>
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&height=55&lines=Automating+Cloud+Infrastructure;Building+CI%2FCD+Pipelines;Docker+%7C+Kubernetes+%7C+AWS;Integrating+Security+into+DevOps;Automate.+Secure.+Deploy.+Improve." alt="Animated DevOps introduction"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=46&duration=2500&pause=1500&color=00C6FF&center=true&vCenter=true&repeat=false&width=800&height=90&lines=SUCHITH+K" alt="Suchith K"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=24&duration=2600&pause=900&color=E2F3FF&center=true&vCenter=true&width=800&height=50&lines=DevOps+Engineer+%7C+Cloud+%7C+DevSecOps;Automating+Cloud+Infrastructure;Building+CI%2FCD+Pipelines;Docker+%7C+Kubernetes+%7C+AWS;Integrating+Security+into+DevOps" alt="Animated introduction"/>
 
 <br/>
 
@@ -17,53 +17,51 @@
 <a href="https://www.linkedin.com/in/suchith-k-0262a5252/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:suchith004@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/Suchith-K-git"><img src="https://img.shields.io/github/followers/Suchith-K-git?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=0284C7&labelColor=020617" alt="GitHub followers"/></a>
-<img src="https://komarev.com/ghpvc/?username=Suchith-K-git&style=for-the-badge&color=0284C7&labelColor=020617&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Suchith-K-git&style=flat-square&color=0284C7&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
 
-<h2 align="center">⚡ ABOUT ME</h2>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=ABOUT+ME" alt="About me"/>
+</div>
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
 ### Hello, I'm Suchith 👋
 
 DevOps Engineer based in Bengaluru, India, with close to **2 years of hands-on experience** in cloud infrastructure, automation, CI/CD, and containerization.
 
-I focus on building reliable deployment workflows, automating repetitive tasks, and improving software delivery through DevOps and DevSecOps practices.
+I build reliable deployment workflows, automate repetitive tasks, and improve software delivery through DevOps and DevSecOps practices.
 
 - ☁️ Cloud infrastructure on **AWS**
 - 🧱 Infrastructure as Code with **Terraform**
 - 🔄 CI/CD automation with **Jenkins**
 - 📦 Containerization with **Docker**
-- ☸️ Container orchestration with **Kubernetes**
+- ☸️ Orchestration with **Kubernetes**
 - 🛡️ Security scanning with **SonarQube** and **Trivy**
 
 </td>
-<td width="40%" valign="top">
+<td width="42%" valign="top">
 
-### 👨‍💻 Profile
+```bash
+$ whoami
+suchith-k
 
-```yaml
-name: Suchith K
-role: DevOps Engineer
-location: Bengaluru, India
+$ cat profile.yml
+role:       DevOps Engineer
+location:   Bengaluru, India
 experience: ~2 years
+core:       [AWS, Terraform, Jenkins,
+             Docker, Kubernetes]
+focus:      [Automation, CI/CD,
+             DevSecOps]
 
-core:
-  - AWS
-  - Terraform
-  - Jenkins
-  - Docker
-  - Kubernetes
-
-focus:
-  - Automation
-  - CI/CD
-  - DevSecOps
+$ echo $STATUS
+open_to_opportunities
 ```
 
 </td>
@@ -71,11 +69,13 @@ focus:
 </table>
 
 > [!TIP]
-> **Open to opportunities** in DevOps, Cloud, and DevSecOps roles, and always happy to collaborate on open-source and cloud projects. **Currently exploring:** GitOps, observability, and cloud-native tooling.
+> **Open to opportunities** in DevOps, Cloud, and DevSecOps roles, and happy to collaborate on open-source and cloud projects. **Currently exploring:** GitOps, observability, and cloud-native tooling.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
 
-<h2 align="center">🔁 HOW I SHIP</h2>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=HOW+I+SHIP" alt="How I ship"/>
+</div>
 
 <div align="center">
 
@@ -100,7 +100,9 @@ flowchart LR
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
 
-<h2 align="center">🛠️ TECHNOLOGY ARSENAL</h2>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=TECH+ARSENAL" alt="Technology arsenal"/>
+</div>
 
 <div align="center">
 
@@ -120,7 +122,9 @@ flowchart LR
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
 
-<h2 align="center">🚀 FEATURED PROJECTS</h2>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=FEATURED+PROJECTS" alt="Featured projects"/>
+</div>
 
 <table>
 <tr>
@@ -203,7 +207,9 @@ Static website deployment using AWS content delivery and DNS services.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
 
-<h2 align="center">🏆 GITHUB TROPHIES</h2>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=GITHUB+TROPHIES" alt="GitHub trophies"/>
+</div>
 
 <div align="center">
 
@@ -215,7 +221,9 @@ Static website deployment using AWS content delivery and DNS services.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
 
-<h2 align="center">📊 GITHUB ANALYTICS</h2>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=GITHUB+ANALYTICS" alt="GitHub analytics"/>
+</div>
 
 <div align="center">
 
@@ -234,7 +242,9 @@ Static website deployment using AWS content delivery and DNS services.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
 
-<h2 align="center">📈 CONTRIBUTION GRAPH</h2>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=CONTRIBUTION+GRAPH" alt="Contribution graph"/>
+</div>
 
 <div align="center">
 
@@ -244,7 +254,9 @@ Static website deployment using AWS content delivery and DNS services.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
 
-<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=CONTRIBUTION+SNAKE" alt="Contribution snake"/>
+</div>
 
 <div align="center">
 
@@ -258,7 +270,9 @@ Static website deployment using AWS content delivery and DNS services.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
 
-<h2 align="center">📚 CURRENTLY LEARNING</h2>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=CURRENTLY+LEARNING" alt="Currently learning"/>
+</div>
 
 <div align="center">
 
@@ -270,7 +284,9 @@ Static website deployment using AWS content delivery and DNS services.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
 
-<h2 align="center">🤝 LET'S CONNECT</h2>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=LET'S+CONNECT" alt="Let's connect"/>
+</div>
 
 <div align="center">
 
@@ -284,7 +300,7 @@ Static website deployment using AWS content delivery and DNS services.
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1500&color=38BDF8&center=true&vCenter=true&width=500&height=40&lines=Automate.+Secure.+Deploy.+Improve." alt="Automate. Secure. Deploy. Improve."/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&duration=3000&pause=1500&color=38BDF8&center=true&vCenter=true&repeat=false&width=600&height=40&lines=Automate.+Secure.+Deploy.+Improve." alt="Automate. Secure. Deploy. Improve."/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00C6FF,50:12306B,100:020617" width="100%" alt="Footer banner"/>
 
