@@ -78,7 +78,9 @@ focus:
 
 <div align="center">
 
-<img src="assets/trophies.svg" width="100%" alt="Skill trophies"/>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Suchith-K-git&theme=darkhub&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</a>
 
 <br/>
 
