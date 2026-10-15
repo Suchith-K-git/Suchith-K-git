@@ -1,277 +1,113 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Suchith%20K&fontSize=70&fontColor=00ff88&animation=twinkling&fontAlignY=40&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Automation%20Wizard&descSize=18&descAlignY=62&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Suchith%20K&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%C2%B7%20AWS%20%C2%B7%20Kubernetes%20%C2%B7%20DevSecOps&descSize=18&descAlignY=60&descColor=c9d1d9" width="100%"/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Suchith-K-git&label=Profile%20Views&color=00ff88&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Building%20the%20Cloud-00ff88?style=for-the-badge&logo=statuspage&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-00ff88?style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/suchith-k-0262a5252/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:suchith004@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Suchith-K-git"><img src="https://img.shields.io/github/followers/Suchith-K-git?label=Followers&style=for-the-badge&logo=github&color=181717"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Suchith-K-git&label=Profile%20Views&color=1f6feb&style=for-the-badge"/>
 </p>
-
-<img src="https://raw.githubusercontent.com/Suchith-K-git/Suchith-K-git/main/Banner.jpeg"
-     width="90%"
-     style="border-radius:20px; box-shadow: 0 0 40px rgba(0, 255, 136, 0.4); margin: 16px 0;" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&repeat=true&width=900&height=60&lines=%F0%9F%9A%80+Deploying+dreams+to+production...;%E2%98%81%EF%B8%8F+Architecting+clouds+that+never+fall...;%F0%9F%94%92+Securing+systems+at+zero+trust...;%F0%9F%A4%96+Automating+everything+possible...;%F0%9F%8C%9F+Making+infrastructure+invisible..." />
-</a>
 
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+## About
 
-## 🧬 Who Am I?
+DevOps Engineer based in **Bengaluru, India**, with close to two years of hands-on experience building and operating cloud infrastructure, CI/CD pipelines, and containerized workloads. I focus on automation, repeatable infrastructure, and security built into the delivery pipeline rather than bolted on at the end.
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius:16px;"/>
+- Provisioning AWS infrastructure as code with Terraform
+- Building Jenkins CI/CD pipelines with integrated quality and security gates
+- Running containerized workloads on Docker and Kubernetes (EKS and self-hosted)
+- Shifting security left with SonarQube, Trivy, and OWASP tooling
 
-```yaml
-name: Suchith K
-role: DevOps Engineer
-location: India 🇮🇳
-focus:
-  - Cloud-Native Infrastructure
-  - Security-First Pipelines
-  - Platform Engineering
-  - SRE & Observability
-philosophy: "Don't fix what breaks — design so it doesn't break"
-currently_learning:
-  - eBPF for deep system observability
-  - Multi-cluster Kubernetes federation
-  - AI-assisted infrastructure ops
-open_to: Collaborations, Cloud Projects, Open Source
-```
+**Open to:** DevOps / Cloud Engineer roles, collaborations, and open-source contributions.
 
-<br clear="right"/>
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+## Technical Skills
 
-## ⚡ Current Mission
+| Domain | Tools |
+|---|---|
+| **Cloud** | AWS (EC2, VPC, IAM, Route 53, EKS, S3, ELB) |
+| **Infrastructure as Code** | Terraform |
+| **Containers & Orchestration** | Docker, Kubernetes, Helm |
+| **CI/CD** | Jenkins, GitHub, GitHub Actions |
+| **DevSecOps** | SonarQube, Trivy, OWASP Dependency-Check |
+| **Scripting & OS** | Bash, YAML, Linux |
 
-<table align="center" border="0" cellpadding="10">
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/-EKS%20%26%20Helm-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/><br/>
-<sub><b>Cloud-Native Microservices</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/-ArgoCD%20GitOps-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/><br/>
-<sub><b>GitOps-First Delivery</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/-DevSecOps-FF6B6B?style=for-the-badge&logo=snyk&logoColor=white"/><br/>
-<sub><b>Zero-Trust CI/CD</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/-Observability-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/><br/>
-<sub><b>SRE & Monitoring</b></sub>
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,github,githubactions,helm,linux,bash&theme=dark" />
+</div>
 
-## 🛠️ Tech Arsenal
+---
+
+## Featured Projects
+
+### DevSecOps CI/CD Pipeline
+Jenkins → GitHub → Docker delivery chain with SonarQube static analysis, Trivy image and filesystem scanning, and OWASP dependency checks enforced as pipeline gates.
+`Jenkins` `Docker` `SonarQube` `Trivy` `OWASP`
+
+### Wanderlust: DevSecOps Deployment on AWS EC2
+End-to-end deployment of a full-stack application on AWS EC2, integrating Jenkins, Docker, SonarQube, Trivy, and OWASP into a single automated pipeline.
+`AWS EC2` `Jenkins` `Docker` `Security Scanning`
+
+### Kubernetes on EKS and Bare-Metal
+Ingress routing, TLS termination, Horizontal Pod Autoscaling, and MetalLB-backed LoadBalancer services across managed (EKS) and self-hosted clusters.
+`Kubernetes` `EKS` `Ingress` `HPA` `MetalLB`
+
+### AWS Route 53 Explainer
+A self-authored, interactive walkthrough of Route 53 routing policies and DNS failover patterns.
+`AWS` `Route 53` `DNS`
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,jenkins,githubactions,gitlab,prometheus,grafana,elasticsearch,bash,python,go,yaml,linux&theme=dark" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Suchith-K-git&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchith-K-git&layout=compact&theme=github_dark&hide_border=true" />
 
-<br/><br/>
-
-**☁️ Cloud & Infrastructure**
-<br/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white"/>
-
-**📦 Containers & Orchestration**
-<br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
-<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
-
-**🔄 CI/CD & Automation**
-<br/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-
-**🛡️ Security Scanning & Testing**
-<br/>
-<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
-
-**📊 Monitoring & Observability**
-<br/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
-
-**💻 Languages & Scripting**
-<br/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://streak-stats.demolab.com?user=Suchith-K-git&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+### Achievements
 
-## 📊 GitHub Pulse
+<div align="center">
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Suchith-K-git&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&border_radius=12" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Suchith-K-git&theme=merko&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&border_radius=12" />
-</p>
+<!-- Reliable, self-updating metrics (shields.io): no third-party trophy server required -->
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSuchith-K-git&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=1f6feb" />
+<img src="https://img.shields.io/github/followers/Suchith-K-git?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSuchith-K-git&query=%24.created_at&label=On%20GitHub%20Since&style=for-the-badge&logo=github&color=1f6feb" />
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchith-K-git&layout=donut&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&border_radius=12" />
-</p>
+</div>
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Suchith-K-git&theme=merko&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&hide_border=true&area=true&area_color=00ff88" />
-</p>
-
-## 🏆 Trophies & Milestones
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Suchith-K-git&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-</p>
-
-> 💡 If trophies still don't render on the first load, GitHub sometimes caches a stale image — right-click the badge → "Open image in new tab" to force a refresh, or add `&row=2` to reflow them.
-
-## 🐍 Code Contribution Snake
+### Contribution Graph
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Suchith-K-git/Suchith-K-git/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Suchith-K-git/Suchith-K-git/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Suchith-K-git/Suchith-K-git/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Suchith-K-git/Suchith-K-git/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
-## 🧊 3D Contribution Calendar
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Suchith-K-git/Suchith-K-git/profile-3d-contrib/profile-night-rainbow.svg" width="90%"/>
-</p>
+## Currently Learning
 
-<sub align="center">⚠️ This cube renders automatically once the <code>profile-3d-contrib</code> GitHub Action is added to your repo — see setup note at the bottom of this file.</sub>
+- GitOps with ArgoCD
+- Observability with Prometheus and Grafana
+- Multi-cluster Kubernetes operations
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
-## 📌 Featured Work
+## Connect
 
-<table align="center" border="0" cellpadding="12">
-<tr>
-<td width="50%">
+- LinkedIn: [suchith-k-0262a5252](https://www.linkedin.com/in/suchith-k-0262a5252/)
+- Email: [suchith004@gmail.com](mailto:suchith004@gmail.com)
 
-### 🔐 DevSecOps Pipeline
-Zero-trust CI/CD combining SonarQube, Trivy, and OWASP scanning across a Jenkins → GitHub → Docker delivery chain.
-
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white"/> <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white"/>
-
-</td>
-<td width="50%">
-
-### ☁️ AWS Route 53 Explainer
-An interactive, self-authored walkthrough of DNS routing policies and failover patterns on AWS.
-
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Route53-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌊 Wanderlust — DevSecOps Bootcamp
-End-to-end deployment project on AWS EC2, wiring Jenkins, Docker, SonarQube, Trivy and OWASP into one pipeline.
-
-<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-
-</td>
-<td width="50%">
-
-### ⚙️ Kubernetes on EKS & Bare-Metal
-Ingress routing, TLS, HPA, and MetalLB-based LoadBalancer services across managed and self-hosted clusters.
-
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-
-</td>
-</tr>
-</table>
-
-## 💡 Dev Philosophy
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&quote=Automate%20the%20boring.%20Architect%20the%20resilient.%20Secure%20the%20rest.&author=Suchith%20K" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🤝 Let's Build Together
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/suchith-k-0262a5252/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:suchith004@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Suchith-K-git">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Open%20to-Collaborations-00ff88?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
-<img src="https://img.shields.io/badge/Available%20for-Cloud%20Projects-00ff88?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=160&section=footer&text=Let's%20Engineer%20the%20Future%20Together&fontSize=22&fontColor=00ff88&animation=twinkling&fontAlignY=65" width="100%"/>
-
-<p align="center">
-  <sub>⚡ Built with passion, deployed with precision · Suchith K © 2025</sub>
-</p>
-
-<!--
-=====================================================================
-SETUP NOTES (delete this comment block once configured)
-=====================================================================
-1. TROPHIES — now use the official service (github-profile-trophy.vercel.app)
-   instead of an unofficial fork, which was the reason trophies weren't
-   rendering. This one is actively maintained and far more reliable.
-
-2. 3D CONTRIBUTION CUBE — requires a one-time GitHub Action in this repo:
-   Create .github/workflows/profile-3d-contrib.yml with:
-
-   name: profile-3d-contrib
-   on:
-     schedule:
-       - cron: "0 */6 * * *"
-     workflow_dispatch:
-   jobs:
-     build:
-       runs-on: ubuntu-latest
-       steps:
-         - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-           env:
-             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-           with:
-             USERNAME: Suchith-K-git
-
-   This generates the profile-3d-contrib branch with SVG files. If you'd
-   rather skip this, just delete the "3D Contribution Calendar" section.
-
-3. SNAKE GAME — already configured via the "output" branch workflow you
-   set up previously; no change needed here.
-=====================================================================
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%"/>
