@@ -1,0 +1,40 @@
+name: Update profile graphics
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - "scripts/generate.py"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-graphics
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Generate snake, stats and trophies from live profile data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate.py "${{ github.repository_owner }}"
+      - name: Bust the image cache in README
+        run: sed -i -E "s#(assets/(snake|stats|trophies)\.svg)\?v=[0-9a-zA-Z]+#\1?v=${GITHUB_RUN_ID}#g" README.md
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/snake.svg assets/stats.svg assets/trophies.svg README.md
+          git diff --cached --quiet || git commit -m "chore: refresh profile graphics"
+          git pull --rebase
+          git push
